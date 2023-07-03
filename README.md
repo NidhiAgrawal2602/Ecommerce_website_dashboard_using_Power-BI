@@ -1,4 +1,4 @@
-# Power-BI
+# Ecommerce Website Dashboard
 *  Analyzed E-commerce website - Created a Sales dashboard using Power BI
 * In this, I used different chats Like
   1.  Stacked Column chart
